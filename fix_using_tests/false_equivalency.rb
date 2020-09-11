@@ -21,5 +21,3 @@ def runner
   input = gets.chomp
   selection(input)
 end
-
-runner
